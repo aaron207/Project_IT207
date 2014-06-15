@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<div align="center" id="mainWrapper">
+<div align="center" id="holdSections">
 <?php include_once("template_header.php");?>
   <div id="pageContent"><br />
     <div align="left" style="margin-left:24px;">
